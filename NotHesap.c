@@ -1,4 +1,4 @@
-#include <stdio.h>//KÜÇÜK BİR BUG VAR HEMEN DÜZELTECEĞİM
+#include <stdio.h>//UFAK BİR YAZDIRMA HATASI VAR MÜSAİT OLUNCA ÇÖZECEĞİM:)
 
 int main(){
 
