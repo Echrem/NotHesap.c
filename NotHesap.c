@@ -19,7 +19,7 @@ if (ortalamanot<=100 && ortalamanot>=50)
 	}
 	 else if (ortalamanot<=50 && ortalamanot>=1)
 	{
-		printf("Vasat Öğrenci Ortalama: \n");
+		printf("Vasat Öğrenci Ortalama:%f \n",ortalamanot);
 		
 	}
  
