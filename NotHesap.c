@@ -1,4 +1,4 @@
-#include <stdio.h>//UFAK BİR YAZDIRMA HATASI VAR MÜSAİT OLUNCA ÇÖZECEĞİM:)
+#include <stdio.h>
 
 int main(){
 
@@ -10,19 +10,18 @@ float ortalamanot;
 printf("%d notu giriniz:",i++);
 scanf("%d", &not);
 toplamnot =toplamnot + not;
-ortalamanot=(toplamnot/3);
+ortalamanot=(toplamnot/3);}
 
 if (ortalamanot<=100 && ortalamanot>=50)
 	{
-		printf("Çalışkan Öğrenci %f \n",ortalamanot);
+		printf("Çalışkan Öğrenci Ortalama: %f \n",ortalamanot);
 		
 	}
 	 else if (ortalamanot<=50 && ortalamanot>=1)
 	{
-		printf("Vasat Öğrenci \n");
+		printf("Vasat Öğrenci Ortalama: \n");
 		
 	}
- }
+ 
 
 }
-	
