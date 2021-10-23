@@ -17,7 +17,7 @@ if (ortalamanot<=100 && ortalamanot>=50)
 		printf("Çalışkan Öğrenci %f \n",ortalamanot);
 		
 	}
-	 else if (ortalamanot<=50 && ortalamanot>=40)
+	 else if (ortalamanot<=50 && ortalamanot>=1)
 	{
 		printf("Vasat Öğrenci \n");
 		
